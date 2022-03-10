@@ -399,6 +399,56 @@ h1, h3, h4, h5, p {
 	margin-bottom: 44px;
 }
 
+th,
+td {
+	padding-bottom: 22px;
+	vertical-align: top;
+}
+
+th {
+	padding-right: 45px;
+	text-align: right;
+	width: 20%;
+}
+
+td {
+	width: 40%;
+}
+
+thead {
+	line-height: 44px;
+}
+
+thead th {
+	color: #648880;
+	font-size: 24px;
+}
+
+tbody th {
+	color: #a9b2b9;
+	font-size: 14px;
+	font-weight: 400;
+	padding-top: 22px;
+	text-transform: uppercase;
+}
+
+
+
+/* 
+  ========================================
+  Schedule
+  ========================================
+*/
+
+table {
+	width: 100%;
+	margin-bottom: 44px;
+}
+
+table:last-child {
+	margin-bottom: 0px;
+}
+
 /* 
   ========================================
   Images
